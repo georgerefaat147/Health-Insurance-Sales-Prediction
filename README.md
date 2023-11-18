@@ -2,6 +2,7 @@ Vehicle Insurance Prediction
 ==============================
 
 Predicting if the customer for heathe insurance company is going to respond for a vehicle insurance
+By analyzing various factors such as demographics and vehicle details, the model will provide insights to help the company target potential customers and optimize marketing efforts.
 
 Project Organization
 ------------
